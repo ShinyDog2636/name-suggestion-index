@@ -51054,7 +51054,8 @@
       "tags": {
         "amenity": "school",
         "operator": "Vancouver School Board",
-        "operator:type": "public"
+        "operator:type": "public",
+        "operator:wikidata": "Q1189835"
       }
     },
     {
