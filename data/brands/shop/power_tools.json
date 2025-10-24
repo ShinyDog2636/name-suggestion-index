@@ -13,6 +13,15 @@
         "brand:wikidata": "Q1361530",
         "name": "Hilti",
         "shop": "power_tools"
+      },
+      {
+      "displayName": "KMS Tools",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "KMS Tools",
+        "brand:wikidata": "Q6333910",
+        "name": "KMS Tools",
+        "shop": "power_tools"
       }
     }
   ]
