@@ -250,6 +250,16 @@
         "name": "Vera Bradley",
         "shop": "bag"
       }
+    },
+    {
+      "displayName": "Herschel Supply",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Herschel",
+        "brand:wikidata": "Q23672312",
+        "name": "Herschel Supply",
+        "shop": "bag"
+      }
     }
   ]
 }
