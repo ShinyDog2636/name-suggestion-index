@@ -174,7 +174,7 @@
       "displayName": "7分甜",
       "id": "sweet7-823e31",
       "locationSet": {
-        "include": ["cn"],
+        "include": ["cn","ca"],
         "exclude": ["hk", "mo"]
       },
       "tags": {
