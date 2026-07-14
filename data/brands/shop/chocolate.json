@@ -244,6 +244,16 @@
         "name": "Yves Thuriès",
         "shop": "chocolate"
       }
+    },
+    {
+      "displayName": "Chocolats Favoris",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Chocolats Favoris",
+        "brand:wikidata": "Q124317157",
+        "name": "Chocolats Favoris",
+        "shop": "chocolate"
+      }
     }
   ]
 }
